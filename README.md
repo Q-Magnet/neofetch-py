@@ -3,24 +3,24 @@ This program likes neofetch, but works on windows!
 ## Samples
 You can compare them
 ### Termux on Android device
-         -o          o-            u0_a354@localhost
-          +hydNNNNdyh+             -----------------
-        +mMMMMMMMMMMMMm+           OS: Android 13 aarch64
-      `dMMm:NMMMMMMN:mMMd`         Host: vivo V2011A
-      hMMMMMMMMMMMMMMMMMMh         Kernel: 4.19.125-perf+
-  ..  yyyyyyyyyyyyyyyyyyyy  ..     Uptime: 6 days, 2 hours, 18 mins
-.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   Packages: 214 (dpkg), 1 (pkg)
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Shell: bash 5.2.15
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   CPU: Qualcomm SM8250 (8) @ 1.804GHz
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Memory: 5575MiB / 11636MiB
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
--MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
-      mMMMMMMMMMMMMMMMMMMm
-      `/++MMMMh++hMMMM++/`
-          MMMMo  oMMMM
-          MMMMo  oMMMM
-          oNMm-  -mMNs
+             -o          o-            u0_a354@localhost
+              +hydNNNNdyh+             -----------------
+            +mMMMMMMMMMMMMm+           OS: Android 13 aarch64
+          `dMMm:NMMMMMMN:mMMd`         Host: vivo V2011A
+          hMMMMMMMMMMMMMMMMMMh         Kernel: 4.19.125-perf+
+      ..  yyyyyyyyyyyyyyyyyyyy  ..     Uptime: 6 days, 2 hours, 18 mins
+    .mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   Packages: 214 (dpkg), 1 (pkg)
+    :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Shell: bash 5.2.15
+    :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   CPU: Qualcomm SM8250 (8) @ 1.804GHz
+    :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Memory: 5575MiB / 11636MiB
+    :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+    -MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+     +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+          mMMMMMMMMMMMMMMMMMMm
+          `/++MMMMh++hMMMM++/`
+                  MMMMo  oMMMM
+              MMMMo  oMMMM
+              oNMm-  -mMNs
 ### This is from neofetch-py
                               ##         qmag@SurfacePro7
                # ###############         -----------------
